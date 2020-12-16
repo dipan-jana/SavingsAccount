@@ -8,6 +8,7 @@ Class SavingsAccount
             void getPreviousTransaction - shows what is my previous transaction i.e., withdraw or deposit.
 
 Class Customer
+
             Contains the details of the Customer
 
                 private int customerID;
