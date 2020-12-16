@@ -5,7 +5,7 @@ Class SavingsAccount
 
             void deposit() - method for depositing amt.
             void withdraw() - method for withdraw amt.
-            void getPreviousTransaction - shows what is my previous transaction i.e., withdraw or deposit.
+            void getPreviousTransaction() - shows what is my previous transaction i.e., withdraw or deposit.
 
 Class Customer
 
